@@ -3,4 +3,4 @@ kind: Provider
 metadata:
   name: crossplane-provider-aws
 spec:
-  package: crossplane/provider-aws:v0.43.0
+  package: crossplane/provider-aws:v0.45.2
