@@ -3,4 +3,4 @@ kind: Provider
 metadata:
   name: crossplane-provider-helm
 spec:
-  package: crossplane/provider-helm:v0.18.1
+  package: crossplane-contrib/provider-helm:v0.18.1
