@@ -3,4 +3,4 @@ kind: Provider
 metadata:
   name: provider-scaleway
 spec:
-  package: xpkg.upbound.io/scaleway/provider-scaleway:v0.2.0
+  package: xpkg.upbound.io/scaleway/provider-scaleway:v0.1.0
